@@ -41,4 +41,4 @@ async def stop(ctx):
         await ctx.send("Stopped the music.")
     else:
         await ctx.send("No music is currently playing.")
-bot.run("MTMxNjQwOTg4NDEyODA1NTM1Nw.GpbNz8.RJyREd5P-EmQpVQtdel-uepgR7qfWoiFBLtIMA")
+bot.run("MTMxNjY0MDEzNzE4MjA1MjM3Mg.G33ohS.TyvRuWfw8BR_3OHZP8yPZWNzaohCRieRBmFzig")
