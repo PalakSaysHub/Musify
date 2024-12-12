@@ -31,7 +31,7 @@ app.get('/search/:trackName', (req, res) => {
             res.status(500).send('Error searching for track');
         });
 });
-app.listen(8888, () => {
-    console.log(`Server running at http://localhost:${8888}`);
+app.listen(4070, () => {
+    console.log(`Server running at http://localhost:${PORT}`);
 });
 
